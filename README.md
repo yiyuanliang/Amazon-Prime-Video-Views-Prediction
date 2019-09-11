@@ -40,3 +40,7 @@ Following is the architecture of this project:
     
     Part 5: Feature Importance
                 a. Random Forest
+
+
+If you can't load the jupyter notebook at GitHub, please visit following website to check out the project: ⬇️
+https://nbviewer.jupyter.org/github/yiyuanliang/Amazon-Prime-Video-Views-Prediction/blob/master/Amazon-Prime-Video-Views-Prediction.ipynb
