@@ -1,9 +1,5 @@
 # Amazon-Prime-Video-Views-Prediction
 
-Please visit following link to open the jupyter notebook: ⬇️
-
-https://nbviewer.jupyter.org/github/yiyuanliang/Amazon-Prime-Video-Views-Prediction/blob/master/Amazon-Prime-Video-Views-Prediction.ipynb
-
 
 In this project, we will buid a prediction model to predict whether a movie is going to perform well on Amazon Prime Movie platform. 
 
